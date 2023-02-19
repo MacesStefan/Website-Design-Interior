@@ -3,5 +3,5 @@ Design: [https://nicepage.com/website-design/preview/visualization-of-interiors-
 
 Tehnologii folosite:
 
-JQuery
-Bootstrap 5
+- JQuery
+- Bootstrap 5
